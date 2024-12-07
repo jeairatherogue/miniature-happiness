@@ -1,0 +1,1 @@
+barcode_standard = "code128"

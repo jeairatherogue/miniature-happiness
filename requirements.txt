@@ -1,0 +1,4 @@
+barcode~=1.0.4
+python-barcode~=0.15.1
+svgwrite~=1.4.3
+pillow~=11.2.0
